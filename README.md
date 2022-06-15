@@ -2,4 +2,4 @@
 
 > https://feedd-widget-v2.vercel.app/
 
-<!-- ![Esta es una imagen](https://myoctocat.com/assets/images/base-octocat.svg) -->
+![Esta es una imagen](https://raw.githubusercontent.com/csrap/feedd-widget-v2/master/nlw-app/src/assets/feedback.png)
